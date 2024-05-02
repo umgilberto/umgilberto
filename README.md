@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Angular, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/umgilberto/umgilberto](https://github.com/umgilberto/umgilberto)
+- 👨‍💻 All of my projects are available at [https://github.com/umgilberto](https://github.com/umgilberto)
 
 - 📫 How to reach me **gilbertojrdv2@gmail.com**
 
