@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 All of my projects are available at https://github.com/umgilberto<br><br>📫 How to reach me gilbertojrdv2@gmail.com
+📫 How to reach me gilbertojrdv2@gmail.com
 
 
 ## 🌐 Socials:
